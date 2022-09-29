@@ -32,10 +32,6 @@ android {
 
 dependencies {
 
-    //Bottom Navigation Bar
-    implementation 'com.github.ismaeldivita:chip-navigation-bar:1.4.0'
-    implementation 'org.jetbrains.kotlin:kotlin-stdlib'
-
     // Room
     def room_version = "2.4.3"
     implementation "androidx.room:room-runtime:$room_version"
