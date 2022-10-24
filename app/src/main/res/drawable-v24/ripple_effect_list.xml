@@ -2,12 +2,10 @@
 <ripple xmlns:tools="http://schemas.android.com/tools"
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="#FF4242">
-
     <item>
         <shape android:shape="rectangle">
             <solid android:color="#FF8F8F"/>
             <corners android:radius="20dp"/>
         </shape>
     </item>
-
 </ripple>
